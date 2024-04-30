@@ -1,5 +1,8 @@
 ## Changelog for vue-autoNumeric
 
+### 1.2.7
++ Fixes #55 update autonumeric imports to work with CDN or node_modules
+
 ### 1.2.6
 + Fixes #24 VueAutonumeric value prop validator should accept strings
 
